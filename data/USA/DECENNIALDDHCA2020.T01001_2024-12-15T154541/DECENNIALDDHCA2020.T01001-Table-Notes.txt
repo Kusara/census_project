@@ -1,0 +1,36 @@
+
+=============================================================================================================
+Notes
+=============================================================================================================
+
+Note: For information on data collection, confidentiality protection, nonsampling error, subject definitions, and guidance on using the data, access the <a href=\"https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/detailed-demographic-and-housing-characteristics-file-a/2020census-detailed-dhc-a-techdoc.pdf\">2020 Census Detailed Demographic and Housing Characteristics File A (Detailed DHC-A) Technical Documentation<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+The Hispanic origin and race codes were updated in 2020. For more information on the Hispanic origin and race code changes, access <a href=\"https://www.census.gov/newsroom/blogs/random-samplings/2021/08/improvements-to-2020-census-race-hispanic-origin-question-designs.html#:~:text=Based%20on%20further%20research%2C%20testing,recognize%20longer%20write%2Din%20responses.\">Improvements to the 2020 Census Race and Hispanic Origin Question Designs, Data Processing, and Coding Procedures<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Data users may observe implausible and improbable data within this product and compared with other 2020 Census data products. For example, it is possible for a detailed group to have a larger count in a tract than in its corresponding county. For more information, access the <a href=\"https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/detailed-demographic-and-housing-characteristics-file-a/2020census-detailed-dhc-a-techdoc.pdf\">2020 Census Detailed Demographic and Housing Characteristics File A (Detailed DHC-A) Technical Documentation<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Aggregating data, such as geographies and sex by age data, diminishes accuracy and increases the likelihood of inconsistent and improbable results. For guidance on creating custom aggregations from Detailed DHC-A data, access the <a href=\"https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/detailed-demographic-and-housing-characteristics-file-a/2020census-detailed-dhc-a-techdoc.pdf\">2020 Census Detailed Demographic and Housing Characteristics File A (Detailed DHC-A) Technical Documentation<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Counts showing an \"X\" are suppressed for one of two reasons: (1) the count was negative or (2) it is an alone count larger than its equivalent alone or in any combination count. If the suppressed count is an alone count, data users should use the equivalent alone in any combination count, if it is available.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Table T01001 provides population counts for racial and ethnic groups at the nation and state levels. For county, tract, and place levels and American Indian/Alaska Native/Native Hawaiian (AIANNH) areas, Table T01001 provides population counts for racial and ethnic groups that met minimum population counts. For more information on the minimum population counts and accuracy, access the <a href=\"https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/detailed-demographic-and-housing-characteristics-file-a/2020census-detailed-dhc-a-techdoc.pdf\">2020 Census Detailed Demographic and Housing Characteristics File A (Detailed DHC-A) Technical Documentation<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Washington, D.C. and American Indian/Alaska Native/Native Hawaiian (AIANNH) areas may show data when there should not be any displayed. This is due to postprocessing to ensure counts for statistically equivalent and coterminous geographies are consistent. For more information, access the <a href=\"https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/detailed-demographic-and-housing-characteristics-file-a/2020census-detailed-dhc-a-techdoc.pdf\">2020 Census Detailed Demographic and Housing Characteristics File A (Detailed DHC-A) Technical Documentation<\/a>.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Source: U.S. Census Bureau, 2020 Census Detailed Demographic and Housing Characteristics File A (Detailed DHC-A)<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
